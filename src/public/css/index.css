@@ -1,0 +1,51 @@
+.attendance-registration__content {
+    margin: 0 auto;
+    padding: 30px 15px 60px;
+    max-width: 1230px;
+    background: #F5F5F5;
+}
+
+.attendance-registration__message p {
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.attendance__alert {
+    padding: 10px 20px 30px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: #B0C4DE;
+}
+
+.attendance-registration__group {
+    margin: 0px 30px;
+}
+
+.attendance-registration__work-group,
+.attendance-registration__break-group {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.attendance-registration__item {
+    width: 50%;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.attendance-registration__item button {
+    background-color: #fff;
+    width: 90%;
+    height: 200px;
+    margin: 15px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+}

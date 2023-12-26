@@ -1,0 +1,28 @@
+.attendance-record__content {
+    margin: 0 auto;
+    padding: 30px 15px 60px;
+    max-width: 1230px;
+    background: #F5F5F5;
+    text-align: center;
+}
+
+.attendance-recode__date button {
+    margin: 0px 15px;
+    padding: 2px 10px;
+    border: solid 1px #1E90FF;
+    border-radius: 2px;
+    color: #1E90FF;
+    background-color: #fff;
+}
+
+.attendance-record__date span {
+    font-weight: bold;
+}
+
+.attendance-record__table {
+    padding: 30px;
+}
+
+.attendance-record__table__inner {
+    width: 100%;
+}
